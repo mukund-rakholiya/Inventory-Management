@@ -1,6 +1,5 @@
 package com.mohitsabhadiya123.InventoryManagementSystem.Controller;
 
-
 import com.mohitsabhadiya123.InventoryManagementSystem.Model_Entity.Customer;
 import com.mohitsabhadiya123.InventoryManagementSystem.Service.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
